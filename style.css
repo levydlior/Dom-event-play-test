@@ -17,6 +17,6 @@ h1 {
     border: 1rem;
     background-color: white;
     position: relative;
-    width: 2rem;
-
+    width: 4rem;
+    transition: 2s;
 }

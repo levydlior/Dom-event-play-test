@@ -2,13 +2,13 @@ const pawn = document.getElementById('pawn')
 
 const moveLine = () =>{
 
-    let num = Math.floor(Math.random()* (58 - 0 +1))
+    let num = Math.floor(Math.random()* (56 - 0 +1))
     return num
 }
 
 const moveUp = () =>{
 
-    let num = Math.floor(Math.random()* (19 - 539 +1))
+    let num = Math.floor(Math.random()* (1 - 557 +1))
     return num
 }
 
