@@ -1,0 +1,22 @@
+h1 {
+ color: blue;
+}
+
+
+
+#back {
+    background-color: black;
+    width: 60rem;
+    height: 36rem;
+    margin-left: 7rem;
+    position: absolute;
+
+}
+
+#pawn {
+    border: 1rem;
+    background-color: white;
+    position: relative;
+    width: 2rem;
+
+}
